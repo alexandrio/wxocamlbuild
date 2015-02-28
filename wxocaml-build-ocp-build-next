@@ -1,0 +1,11 @@
+alejandro@lubu:~/wxocaml$ ocp-build
+find_project_root
+File "/home/alejandro/wxocaml/configure.ocp", line 3, characters 31-31:
+Parse error
+alejandro@lubu:~/wxocaml$ make all
+ocp-build
+find_project_root
+File "/home/alejandro/wxocaml/configure.ocp", line 3, characters 31-31:
+Parse error
+Makefile:15: recipe for target 'all' failed
+make: *** [all] Error 2
